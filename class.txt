@@ -8,3 +8,10 @@ push something to it
 switch to main branch - git switch branch-name
 push something to it
 
+
+
+1. Fix something from main in a new branch
+2. Create a PR (Pull request) to merge it to main;
+3. merge it.
+
+
